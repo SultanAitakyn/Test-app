@@ -1,0 +1,88 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "title": "Frontend crash course",
+      "author": "Sultan"
+    }
+  ],
+  "course-users": [
+    {
+      "id": 1,
+      "name": "Dima",
+      "email": "dima@gmail.com",
+      "courseId": 1,
+      "receiveUpdates": false
+    },
+    {
+      "name": "Sad",
+      "email": "gas@gmail.com",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 2
+    },
+    {
+      "name": "Sad",
+      "email": "gas@gmail.com",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 3
+    },
+    {
+      "name": "Sad",
+      "email": "gas@gmail.com",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 4
+    },
+    {
+      "name": "fadsf",
+      "email": "fewfw",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 5
+    },
+    {
+      "name": "fasdf",
+      "email": "fadf",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 6
+    },
+    {
+      "name": "fasdfw",
+      "email": "fdasffdsa",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 7
+    },
+    {
+      "name": "fadsf",
+      "email": "fadsf",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 8
+    },
+    {
+      "name": "fasdf",
+      "email": "fadsf",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 9
+    },
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 10
+    },
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "receiveUpdates": false,
+      "courseId": 1,
+      "id": 11
+    }
+  ]
+}
